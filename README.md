@@ -8,7 +8,6 @@ Upload an eye fundus image, run inference, and review a gamified prediction dash
 
 ## Live Demo (Deployment)
 
-> Add your deployed app URL here after deployment.
 
 - **App Link:** https://jyotirmaya-giet-vision-g11-asis-krishn-subham.streamlit.app/
 - **Status:** `Coming Soon`
