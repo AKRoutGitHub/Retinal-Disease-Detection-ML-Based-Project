@@ -13,7 +13,7 @@ import torchvision.transforms as transforms
 
 # ---------- Page Setup ----------
 st.set_page_config(
-    page_title="Retina AI Quest",
+    page_title="JyotirMaya",
     page_icon="👁️",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -228,7 +228,7 @@ def get_who_link(label: str) -> str:
 st.markdown(
     """
     <div class="title-card">
-      <h1 style="margin:0;">👁️ Retina AI Quest</h1>
+      <h1 style="margin:0;">👁️ JyotirMaya</h1>
       <p style="margin:0.3rem 0 0 0;">Upload fundus image → preprocess → infer → view gamified results dashboard.</p>
     </div>
     """,

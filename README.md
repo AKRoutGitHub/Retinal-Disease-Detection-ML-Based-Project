@@ -1,4 +1,4 @@
-# Retina AI Quest - Fundus Disease Prediction Dashboard
+# JyotirMaya - Fundus Disease Prediction Dashboard
 
 A visually rich, practitioner-friendly Streamlit app for retinal fundus image analysis using a PyTorch `EfficientNet-B0 + CBAM` model.
 
